@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "app/api/auth.js": {
+      "includeFiles": "**"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/api/auth.js"
+    }
+  ]
+}
