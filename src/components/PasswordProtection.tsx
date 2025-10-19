@@ -13,7 +13,7 @@ export default function PasswordProtection({ children }: PasswordProtectionProps
   const [isLoading, setIsLoading] = useState(true);
 
   // Change this to your desired password
-  const CORRECT_PASSWORD = 'xdPS5vRxeCZ8FaqC2025!';
+  const CORRECT_PASSWORD = 'portfolio123';
   const EXPIRATION_MINUTES = 30;
 
   useEffect(() => {

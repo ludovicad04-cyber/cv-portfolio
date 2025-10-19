@@ -54,9 +54,9 @@ export default function CVWebsite() {
   const projects: Project[] = [
     {
       title: 'Meeting Minutes Generator',
-      subtitle: 'AI-powered meeeting summarizer',
+      subtitle: 'AI-powered meeting summarizer',
       description:
-        'Initial project implementation had to be done by external suppliers. I proposed and led the in-house development of a custom meeting-minutes generator built entirely within Microsoft Copilot Studio.',
+        'I proposed and led the in-house development of a custom meeting-minutes generator built entirely within Microsoft Copilot Studio.',
       responsibilities: [
         'Designing the workflow and user experience',
         'Managing the end-to-end development and testing process',
@@ -73,7 +73,7 @@ export default function CVWebsite() {
       title: 'AI Document Translation Tool',
       subtitle: 'Automated multilingual document translator',
       description:
-        'Following European acquisitions, internal teams required scalable document translation across languages. I designed and built an in-house AI translation tool using Azure AI Foundry that preserves original formatting.',
+        'I designed and built an in-house AI translation tool using Azure AI Foundry that preserves original formatting.',
       responsibilities: [
         'Automating translation workflows to minimize manual intervention',
         'Designing an intuitive user interface for non-technical users',
@@ -250,7 +250,7 @@ export default function CVWebsite() {
 
       <section id="projects" className="mx-auto max-w-6xl px-4 py-14 sm:py-20">
         <div className="mb-6">
-          <h2 className="text-2xl font-semibold text-white/90 sm:text-3xl">Latest Projects</h2>
+          <h2 className="text-2xl font-semibold text-white/90 sm:text-3xl">Representative Projects</h2>
         </div>
 
         <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
