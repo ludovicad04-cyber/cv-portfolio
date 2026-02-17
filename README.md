@@ -55,15 +55,6 @@ npm run dev
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-### Customization
-
-1. **Personal Information**: Update the `personalInfo` object in `src/components/CVWebsite.tsx`
-2. **Experience**: Modify the `experience` array
-3. **Education**: Update the `education` array
-4. **Skills**: Customize the `skills` object
-5. **Projects**: Add your projects to the `projects` array
-6. **Styling**: Modify Tailwind classes or add custom CSS
-
 ## Deployment
 
 ### Build for Production
